@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\TorielBuildTool.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\TorielBuildTool.dir/objects.a @CMakeFiles\TorielBuildTool.dir\objects1.rsp
-c:\msys64\ucrt64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\TorielBuildTool.dir/objects.a -Wl,--no-whole-archive -o TorielBuildTool.exe -Wl,--out-implib,libTorielBuildTool.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TorielBuildTool.dir\linkLibs.rsp
