@@ -1,0 +1,3 @@
+C:/Users/kiwik/Desktop/Code-Projects/VS/Toriel build tool/build/CMakeFiles/Toriel-bt.dir
+C:/Users/kiwik/Desktop/Code-Projects/VS/Toriel build tool/build/CMakeFiles/edit_cache.dir
+C:/Users/kiwik/Desktop/Code-Projects/VS/Toriel build tool/build/CMakeFiles/rebuild_cache.dir
